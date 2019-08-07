@@ -1,10 +1,15 @@
 def base_hash
+<<<<<<< HEAD
   hashish = {:railroads => {
    }}
+=======
+  hashish = {}
+>>>>>>> 36a1c83ba83c43cfcb8d5a2feafd3cd4458b784a
 end
 
 def monopoly_with_second_tier
    hashish = {:railroads => {
+<<<<<<< HEAD
     :pieces =>4, 
     :rent_in_dollars => {
       :one_piece_owened=> 25,
@@ -14,6 +19,10 @@ def monopoly_with_second_tier
    }
    }
    }
+=======
+    :pieces =>4 
+   }}
+>>>>>>> 36a1c83ba83c43cfcb8d5a2feafd3cd4458b784a
 end
 
 def monopoly_with_third_tier
